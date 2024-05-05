@@ -14,6 +14,14 @@ doc_path = "../doc"
 files = os.listdir(doc_path)
 files.sort()
 
+hant_2_hans = {
+    "簥": "茄",
+    "畨": "番",
+    "挿": "插",
+    "骹": "脚",
+    "𥐥": "矾",
+}
+
 
 def generate_md(locale='zh-hant'):
     line_list = []
@@ -50,6 +58,8 @@ def generate_md(locale='zh-hant'):
             if locale == 'zh-hant':
                 f.write(line + "\n")
             else:
+                for item in hant_2_hans:
+                    line = line.replace(item, hant_2_hans[item])
                 f.write(zhconv.convert(line, locale=locale) + "\n")
 
 
