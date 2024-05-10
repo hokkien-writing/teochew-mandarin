@@ -47,14 +47,14 @@
 
 ## 引用
 
-| 引用                                                         | 簡寫           |
-| ------------------------------------------------------------ | -------------- |
-| 明朝嘉靖丙寅年（四十五年、1566）刊本《重刊五色潮泉插科增入詩詞北曲勾欄荔鏡記戲文全集》 | 荔鏡記         |
-| 明末,《重補摘錦潮調金花女一卷明末刊本-卷一》                 | 蘇六娘         |
+| 引用                                                         | 簡寫      |
+| ------------------------------------------------------------ |---------|
+| 明朝嘉靖丙寅年（四十五年、1566）刊本《重刊五色潮泉插科增入詩詞北曲勾欄荔鏡記戲文全集》 | 荔鏡記     |
+| 明末,《重補摘錦潮調金花女一卷明末刊本-卷一》                 | 蘇六娘     |
 | 1841, William Dean([美]璘为仁, 憐為仁).《First Lessons in the Tie-chiw Dialect(潮州話初級教程)》 | 潮州話初級教程 |
-| 1883, Adele Marion Fielde([美]A.M.菲爾德, 斐姑娘).《A pronouncing and defining dictionary of the Swatow dialect, arranged according to syllables and tones(汕頭方言音義字典)》 | 斐姑娘字典     |
-| 1883, Josiah Goddard([美]高德, 哥達德).《A Chinese and English vocabulary, in the Tie-chiu dialect(漢英潮州方言字典) | 高德字典       |
-| 1883, Rudolf Lechler([德]黎力基), Samuel Wells Williams([美]衛三畏), William Duffus([英]卓威廉).《English-Chinese Vocabulary of the Vernacular Or Spoken Language of Swatow(英漢汕頭方言口語詞典)》 | 卓威廉詞典     |
-| 1886, Lim Hiong Seng([新加坡]林雄成).《Handbook of the Swatow Vernacular(汕頭話讀本)》 | 汕頭話讀本     |
-| 1992, 李新魁, 林伦伦.《潮汕方言词考释》                      | 考释           |
-| 1993, 林伦伦.《潮汕方言熟语辞典》                            | 熟语辞典       |
+| 1883, Adele Marion Fielde([美]A.M.菲爾德, 斐姑娘).《A pronouncing and defining dictionary of the Swatow dialect, arranged according to syllables and tones(汕頭方言音義字典)》 | 斐姑娘字典   |
+| 1883, Josiah Goddard([美]高德, 哥達德).《A Chinese and English vocabulary, in the Tie-chiu dialect(漢英潮州方言字典) | 高德字典    |
+| 1883, Rudolf Lechler([德]黎力基), Samuel Wells Williams([美]衛三畏), William Duffus([英]卓威廉).《English-Chinese Vocabulary of the Vernacular Or Spoken Language of Swatow(英漢汕頭方言口語詞典)》 | 卓威廉詞典   |
+| 1886, Lim Hiong Seng([新加坡]林雄成).《Handbook of the Swatow Vernacular(汕頭話讀本)》 | 汕頭話讀本   |
+| 1992, 李新魁, 林伦伦.《潮汕方言词考释》                      | 考釋      |
+| 1993, 林伦伦.《潮汕方言熟语辞典》                            | 熟語辭典    |
