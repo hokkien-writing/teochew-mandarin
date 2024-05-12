@@ -26,4 +26,9 @@ class Entry:
         return f"{self.mandarin}, {self.han}, {self.puj}, {self.level}, {self.ref}, {self.example}"
 
     def to_table_item(self):
-        return f"| {self.mandarin} | {self.han} | {self.puj} | {self.ref} | {self.example} |"
+        mandarin = self.mandarin.replace('|', ',')
+        han = self.han.replace('|', ',')
+        puj = self.puj.replace('|', ',')
+        ref = self.ref.replace('|', ',')
+        example = self.example.replace('|', ',')
+        return f"| {mandarin} | {han} | {puj} | {ref} | {example} |"
